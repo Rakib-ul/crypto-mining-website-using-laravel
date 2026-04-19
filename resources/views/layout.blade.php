@@ -495,8 +495,8 @@
         </a>
         <ul class="nav-links">
             <li><a href="#">Markets</a></li>
-            <li><a href="#">Mining</a></li>
-            <li><a href="#">Exchange</a></li>
+            <li><a href="/mining">Mining</a></li>
+            <li><a href="/withdraw">Exchange</a></li>
             <li><a href="#">About</a></li>
         </ul>
         <div style="display:flex;gap:0.75rem;align-items:center;">
