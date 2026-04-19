@@ -19,4 +19,7 @@ Route::get('dashboard', function () {
 Route::get('mining', function () {
     return view('mining');
 });
+Route::get('withdraw', function () {
+    return view('withdraw');
+});
 

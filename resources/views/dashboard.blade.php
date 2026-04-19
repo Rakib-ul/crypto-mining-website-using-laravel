@@ -161,6 +161,7 @@
             </div>
             <div style="display:flex;gap:0.75rem;">
                 <a href="/mining" class="btn-primary">⬡ Start Mining</a>
+                <a href="/withdraw" class="btn-ghost">↑ Withdraw</a>
                 <button class="btn-ghost">↑ Withdraw</button>
             </div>
         </div>
